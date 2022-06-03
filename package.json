@@ -1,12 +1,16 @@
 {
-  "name": "nf",
-  "version": "1.0.0",
-  "description": "",
+  "name": "ipmfiscal",
+  "version": "0.1.0",
+  "description": "Módulo de emissão de NFS-e para o município de gravataí - RS",
   "main": "index.js",
   "type": "module",
   "scripts": {},
-  "author": "",
-  "license": "ISC",
+  "author": "Luiz Psidonik",
+  "license": "MIT",
+  "keywords": [
+    "nfse",
+    "gravatai"
+  ],
   "dependencies": {
     "axios": "^0.27.2",
     "form-data": "^4.0.0",
