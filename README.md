@@ -1,5 +1,5 @@
 # IPMFISCAL
-Módulo de emissão de notas de serviço para o múnicipio de Gravataí - RS
+Módulo de emissão de notas de serviço para o Município de Gravataí - RS
 
 ## FUNÇÕES
 - Emissão de NFS-e para o provedor IPMFISCAL  [Emissão](#emissão)
